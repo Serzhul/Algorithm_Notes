@@ -1,4 +1,4 @@
-# Time complexity(시간복잡도)
+# Time Complexity(시간 복잡도)
 
 # 시간에 관한 문제(The Problem with Time)
 
